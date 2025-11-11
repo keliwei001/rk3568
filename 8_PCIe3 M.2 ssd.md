@@ -8,11 +8,11 @@
 
 ![image-20251021162357537](./assets/image-20251021162357537.png)
 
-![image-20251021162629333](C:\Users\Administrator\Desktop\rk3568\assets\image-20251021162629333.png)
+![image-20251021162629333](./assets/image-20251021162629333.png)
 
 
 
-![image-20251021163221612](C:\Users\Administrator\Desktop\rk3568\assets\image-20251021163221612.png)
+![image-20251021163221612](./assets/image-20251021163221612.png)
 
 
 

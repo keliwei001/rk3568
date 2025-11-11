@@ -6,7 +6,7 @@
 
 由原理图得pcie gen3x2 lane 可拆分
 
-![image-20251021162357537](.\assets\image-20251021162357537.png)
+![image-20251021162357537](./assets/image-20251021162357537.png)
 
 ![image-20251021162629333](C:\Users\Administrator\Desktop\rk3568\assets\image-20251021162629333.png)
 
